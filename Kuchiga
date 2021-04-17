@@ -7,7 +7,7 @@
   
   "chapters": {
     "01": {
-      "title": "Kuchi ga Saketemo Kimi ni wa  01",
+      "title": "Chapter 01",
       "volume": "1",
       "groups": {
         "LPDA Translations": "/proxy/api/imgur/chapter/j08qFlu/"
@@ -15,8 +15,108 @@
       "last_updated": "1616368746"
     },
     
+    "02": {
+      "title": "Chapter 02",
+      "volume": "1",
+      "groups": {
+        "LPDA Translations": "/proxy/api/imgur/chapter/297fZcB/"
+      },
+      "last_updated": "1616368746"
+    },
+    
+    "03": {
+      "title": "Chapter 03",
+      "volume": "1",
+      "groups": {
+        "LPDA Translations": "/proxy/api/imgur/chapter/UrLEQgr/"
+      },
+      "last_updated": "1616368746"
+    },
+    
+    "04": {
+      "title": "Chapter 04",
+      "volume": "1",
+      "groups": {
+        "LPDA Translations": "/proxy/api/imgur/chapter/uSwTm8L/"
+      },
+      "last_updated": "1616368746"
+    },
+    
+    "05: {
+      "title": "Chapter 05",
+      "volume": "1",
+      "groups": {
+        "LPDA Translations": "/proxy/api/imgur/chapter/PlUL1qB/"
+      },
+      "last_updated": "1616368746"
+    },
+    
+     "06: {
+      "title": "Chapter 06",
+      "volume": "1",
+      "groups": {
+        "LPDA Translations": "/proxy/api/imgur/chapter/u6uaNvo/"
+      },
+      "last_updated": "1616368746"
+    },
+    
+    
+    "07": {
+      "title": "Chapter 07",
+      "volume": "2",
+      "groups": {
+        "LPDA Translations": "/proxy/api/imgur/chapter/nj8BQ34/"
+      },
+      "last_updated": "1616368746"
+    },
+    
+     "08": {
+      "title": "Chapter 08",
+      "volume": "2",
+      "groups": {
+        "LPDA Translations": "/proxy/api/imgur/chapter/otym0nc/"
+      },
+      "last_updated": "1616368746"
+    },
+    
+     "09": {
+      "title": "Chapter 09",
+      "volume": "2",
+      "groups": {
+        "LPDA Translations": "/proxy/api/imgur/chapter/Yep4H5Y/"
+      },
+      "last_updated": "1616368746"
+    },
+    
+      "10": {
+      "title": "Chapter 10",
+      "volume": "2",
+      "groups": {
+        "LPDA Translations": "/proxy/api/imgur/chapter/mqSRn4G/"
+      },
+      "last_updated": "1616368746"
+    },
+    
+    "11": {
+      "title": "Chapter 11",
+      "volume": "2",
+      "groups": {
+        "LPDA Translations": "/proxy/api/imgur/chapter/mqSRn4G/"
+      },
+      "last_updated": "1616368746"
+    },
+    
+      "12": {
+      "title": "Chapter 12",
+      "volume": "2",
+      "groups": {
+        "LPDA Translations": "/proxy/api/imgur/chapter/jEFavNk/"
+      },
+      "last_updated": "1616368746"
+    },
+    
      "13": {
-      "title": "Kuchi ga Saketemo Kimi ni wa  13",
+      "title": "Chapter 13",
       "volume": "2",
       "groups": {
         "LPDA Translations": "/proxy/api/imgur/chapter/gOdziX7/"
@@ -25,7 +125,7 @@
     },
     
     "14": {
-      "title": "Kuchi ga Saketemo Kimi ni wa  14",
+      "title": "Chapter 14",
       "volume": "2",
       "groups": {
         "LPDA Translations": "/proxy/api/imgur/chapter/k4GGah2/"

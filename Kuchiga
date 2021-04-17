@@ -6,6 +6,7 @@
   "cover": "https://pbs.twimg.com/media/EuwoOsZXcAE410D.png",
   
   "chapters": {
+  
     "01": {
       "title": "Chapter 01",
       "volume": "1",
@@ -42,7 +43,7 @@
       "last_updated": "1616368746"
     },
     
-    "05: {
+    "05": {
       "title": "Chapter 05",
       "volume": "1",
       "groups": {

@@ -186,6 +186,15 @@
         "LPDA Translations": "/proxy/api/imgur/chapter/GN6FRK8/"
       },
       "last_updated": "1625890398"
+    },
+    
+    "21": {
+      "title": "Chapter 21",
+      "volume": "3",
+      "groups": {
+        "LPDA Translations": "/proxy/api/imgur/chapter/wSNqijl/"
+      },
+      "last_updated": "1627432841"
     }
   }
 }
